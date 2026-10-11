@@ -42,4 +42,3 @@ HTML
 ### 1. Secure Your Private Key (macOS / Linux)
 ```bash
 chmod 400 keyname.pem
-### ScreenShots
