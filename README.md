@@ -36,8 +36,8 @@ HTML
 </html>
 
  ### ScreenShots
- ![EC2 Instance Provisioning](./screenshot1.png)
- ![Security Groups Configuration](./screenshot2.png)
+ ![provisionng](./screenshot1.jpg)
+ ![welcome screen](./screenshot2.jpg)
 
 ### 1. Secure Your Private Key (macOS / Linux)
 ```bash
